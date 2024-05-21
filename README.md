@@ -1,2 +1,2 @@
 # stock_picker
-run `pip install pandas yfinance`
+run `pip install -r requirements.txt`
